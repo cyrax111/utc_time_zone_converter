@@ -1,6 +1,6 @@
 name: utc_time_zone_converter
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: A convenient tool for converting time with a time zone in UTC+ format.
+version: 1.0.1
 repository: https://github.com/cyrax111/utc_time_zone_converter
 
 environment:
